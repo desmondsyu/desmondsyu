@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>✨About me✨</h2>
+  <h2>📣About me📣</h2>
   <h3>Full Stack Developer | Project Manager</h3>
   <p>
   Software developer with a passion for learning advanced technologies and creating high-quality software products.
@@ -10,7 +10,7 @@
 
   <br>
 
-  <h2>🧑‍💻Frequently Used Tech🧑‍💻</h2>
+  <h2>💻Frequently Used Tech💻</h2>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,js,ts,css,tailwind,react,nextjs,nodejs,npm,prisma,php,mysql,java,cs,linux,ubuntu,figma,wordpress,aws,vscode,eclipse&perline=7" />
@@ -19,7 +19,7 @@
 
   <br>
 
-  <h2>🤝Connect with Me🤝</h2>
+  <h2>🔔Connect with Me🔔</h2>
   <a href="mailto:desmondzkx@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
