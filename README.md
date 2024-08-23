@@ -13,7 +13,7 @@
   <h2>💻Frequently Used Tech💻</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,js,ts,css,tailwind,react,nextjs,nodejs,npm,prisma,php,mysql,java,cs,linux,ubuntu,figma,wordpress,aws,vscode,eclipse&perline=7" />
+      <img src="https://skillicons.dev/icons?i=html,js,ts,css,tailwind,react,nextjs,htmx,nodejs,npm,prisma,php,mysql,postgres,java,cs,linux,ubuntu,figma,wordpress,aws,vercel,vscode,visualstudio,eclipse&perline=7" />
     </a>
   </p>
 
