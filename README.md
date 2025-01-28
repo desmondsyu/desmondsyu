@@ -21,7 +21,7 @@
   <h2>💻Frequently Used Tech💻</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,js,ts,css,tailwind,react,nextjs,bootstrap,htmx,nodejs,npm,prisma,hibernate,php,laravel,mysql,mongodb,java,spring,maven,cs,linux,ubuntu,figma,wordpress,aws,vercel,docker,postman,vscode,visualstudio,eclipse,androidstudio&perline=7" />
+      <img src="https://skillicons.dev/icons?i=html,js,ts,css,tailwind,react,nextjs,bootstrap,htmx,nodejs,npm,vite,prisma,hibernate,php,laravel,mysql,mongodb,java,spring,maven,cs,linux,ubuntu,figma,wordpress,aws,vercel,docker,postman,git,github&perline=7" />
     </a>
   </p>
 
