@@ -12,7 +12,7 @@
 
 [![My Skills 3](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
-[![My Skills 4](https://skillicons.dev/icons?i=docker,git,github,githubactions,kubernetes,jenkins)](https://skillicons.dev)
+[![My Skills 4](https://skillicons.dev/icons?i=docker,git,github,githubactions,kubernetes)](https://skillicons.dev)
 
 [![My Skills 5](https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell,aws,gcp,vercel)](https://skillicons.dev)
 
